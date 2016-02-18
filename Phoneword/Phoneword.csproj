@@ -82,6 +82,66 @@
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-40.png">
+      <Link>Resources\Images.xcassets\Icon-40.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-40%402x.png">
+      <Link>Resources\Images.xcassets\Icon-40%402x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-40%403x.png">
+      <Link>Resources\Images.xcassets\Icon-40%403x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-60.png">
+      <Link>Resources\Images.xcassets\Icon-60.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-60%402x.png">
+      <Link>Resources\Images.xcassets\Icon-60%402x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-60%403x.png">
+      <Link>Resources\Images.xcassets\Icon-60%403x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-72.png">
+      <Link>Resources\Images.xcassets\Icon-72.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-72%402x.png">
+      <Link>Resources\Images.xcassets\Icon-72%402x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-76.png">
+      <Link>Resources\Images.xcassets\Icon-76.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-76%402x.png">
+      <Link>Resources\Images.xcassets\Icon-76%402x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-83.5%402x.png">
+      <Link>Resources\Images.xcassets\Icon-83.5%402x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small-50.png">
+      <Link>Resources\Images.xcassets\Icon-Small-50.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small-50%402x.png">
+      <Link>Resources\Images.xcassets\Icon-Small-50%402x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small.png">
+      <Link>Resources\Images.xcassets\Icon-Small.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small%402x.png">
+      <Link>Resources\Images.xcassets\Icon-Small%402x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small%403x.png">
+      <Link>Resources\Images.xcassets\Icon-Small%403x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon.png">
+      <Link>Resources\Images.xcassets\Icon.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon%402x.png">
+      <Link>Resources\Images.xcassets\Icon%402x.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\iTunesArtwork.png">
+      <Link>Resources\Images.xcassets\iTunesArtwork.png</Link>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\iTunesArtwork%402x.png">
+      <Link>Resources\Images.xcassets\iTunesArtwork%402x.png</Link>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.xib" />
